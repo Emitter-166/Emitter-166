@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Friendly**
 
-- 🌱 I’m currently learning **Web Design, Frontend, Digital Marketing**
+- 🌱 I’m currently learning **UI/UX Design, Ruby on Rails, Digital Marketing**
 
-- 💬 Ask me about **Typescript, Express, NodeJS, REST APIs, Discord.js, MySQL**
+- 💬 Ask me about **Ruby on Rails, Typescript, Express, NodeJS, Discord.js, MySQL, PostgreSQL**
 
 - 📄 Know about my experiences [https://emitter-166.github.io/](https://emitter-166.github.io/)
 
