@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby on Rails, Typescript, Express, NodeJS, Discord.js, MySQL, PostgreSQL**
 
-- 📄 Know about my experiences [https://emitter-166.github.io/](https://emitter-166.github.io/)
+- 📄 Know about my experiences https://emischaftler.com/
 
 - ⚡ Fun fact **I got hired as a backend dev at a company at 14!**
 
